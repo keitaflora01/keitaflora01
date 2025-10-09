@@ -1,4 +1,4 @@
-# Justine Fokou 👋
+# KEITA FLORA 👋
 🚀 Passionate about crafting reliable, scalable, and elegant web applications from **frontend to backend**, including **hosting** and **DevOps**. I enjoy turning complex problems into simple, beautiful solutions — and continuously learning in the process.
 
 ---
@@ -9,16 +9,16 @@
 |------------------|----------------------------------------------------------------------------------------|
 | **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS, React.js, Vue.js                                |
 | **Backend**       | Python, Django, Django REST Framework, Node.js, Express.js                           |
-| **DevOps / Tools**| Git, GitHub, Docker, Linux, Bash, Postman, Thunder Client                            |
+| **DevOps / Tools**| Git, GitHub,Gitlab, Docker, Linux, Bash, Postman, Thunder Client                            |
 | **Hosting / CI**  | Vercel, Netlify, Firebase, Hostinger, Railway, Render, AWS                           |
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical)](https://github.com/justinefokou)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=justinefokou&theme=radical&hide_border=true)](https://github.com/justinefokou)  
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=radical)](https://github.com/justinefokou)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keitaflora01&show_icons=true&theme=radical)](https://github.com/keitaflora01)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=keitaflora01&theme=radical&hide_border=true)](https://github.com/keitaflora01)  
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keitaflora01&theme=radical)](https://github.com/keitaflora01)
 
 ---
 
@@ -35,9 +35,9 @@
 
 I'm always open to new opportunities, collaborations, or simply chatting tech!
 
-- 📧 Email: [justinefokousteve@gmail.com](mailto:justinefokousteve@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/justinefokou](https://linkedin.com/in/justinefokou)  
-- 🐦 Twitter: [twitter.com/justinefokou](https://twitter.com/justinefokou)
+- 📧 Email: [keitafloraprincesses.@gmail.com](mailto:keitafloraprincesses@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/justinefokou](https://www.linkedin.com/in/princesses-flora-keita-313432371/)  
+- 🐦 Twitter: [twitter.com/keitaflora01](https://twitter.com/keitaflora01)
 
 ---
 
