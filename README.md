@@ -7,10 +7,10 @@
 
 | Domain            | Technologies & Tools                                                                 |
 |------------------|----------------------------------------------------------------------------------------|
-| **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS, React.js, Vue.js                                |
-| **Backend**       | Python, Django, Django REST Framework, Node.js, Express.js                           |
-| **DevOps / Tools**| Git, GitHub,Gitlab, Docker, Linux, Bash, Postman, Thunder Client                            |
-| **Hosting / CI**  | Vercel, Netlify, Firebase, Hostinger, Railway, Render, AWS                           |
+| **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS.                                |
+| **Backend**       | Python, Django, Django REST Framework                         |
+| **DevOps / Tools**| Git, GitHub,Gitlab, Docker, Linux, Bash, Postman,                           |
+| **Hosting / CI**  | Vercel, Render                           |
 
 ---
 
