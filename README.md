@@ -36,7 +36,7 @@
 I'm always open to new opportunities, collaborations, or simply chatting tech!
 
 - 📧 Email: [keitafloraprincesses.@gmail.com](mailto:keitafloraprincesses@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/justinefokou](https://www.linkedin.com/in/princesses-flora-keita-313432371/)  
+- 💼 LinkedIn: [linkedin.com/in/princesses-flora-keita](https://www.linkedin.com/in/princesses-flora-keita-313432371/)  
 - 🐦 Twitter: [twitter.com/keitaflora01](https://twitter.com/keitaflora01)
 
 ---
