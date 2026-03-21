@@ -8,7 +8,7 @@
 | Domain            | Technologies & Tools                                                                 |
 |------------------|----------------------------------------------------------------------------------------|
 | **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS.                                |
-| **Backend**       | Python, Django, Django REST Framework                         |
+| **Backend**       | Python, Django, PHP REST Framework                         |
 | **DevOps / Tools**| Git, GitHub,Gitlab, Docker, Linux, Bash, Postman,                           |
 | **Hosting / CI**  | Vercel, Render                           |
 
